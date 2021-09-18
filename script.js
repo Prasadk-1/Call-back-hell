@@ -52,7 +52,7 @@ var counter=10;
                                          document.body.innerHTML = "";
                               
                                            setTimeout(() => {
-                                           document.write("Happy Independence Day");
+                                           document.write("Happy New Year!!!");
                                            },1000);
                                           },1000);
                                          },1000);
